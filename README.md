@@ -1,4 +1,4 @@
-# KYC Frontend
+# KYC Frontend (BACKEND PART: [KYC Backend](https://github.com/msfalif404/end-to-end-kyc-data-pipeline-backend))
 
 A modern, responsive KYC verification interface built with React 19 and Vite. This application guides users through the Know Your Customer (KYC) process, including ID Card upload and Selfie verification with liveness checks.
 
